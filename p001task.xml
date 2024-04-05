@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="p001task">
+    <title>P001task.xml</title>
+    <shortdesc>仅仅一个示例，不是真实的步骤。</shortdesc>
+    <taskbody>
+        <context>
+            <p><b>学术论文标题的制作应符合下面几条原则：</b></p>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>题名应以简明、确切的词语<b>反映文章中最重要的特定内容</b>，要符合编制题录、索引和检索的有关原则，并有助于选定关键词。</cmd>
+            </step>
+            <step>
+                <cmd>中文题名一般<b>不宜超过</b><b>20</b><b>个字</b>，必要时可加副题名。</cmd>
+            </step>
+            <step>
+                <cmd>题名应避免使用非公知公认的缩写词、字符、代号，不出现结构式和数学式。</cmd>
+                <info>
+                    <p/>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

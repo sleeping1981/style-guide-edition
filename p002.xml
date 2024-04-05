@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="p002">
+    <title><b>二、摘要</b></title>
+    <shortdesc>摘要的主要要求。</shortdesc>
+    <conbody>
+        <p>
+            <div><p>1. 论文都应有摘要（3000字以下的文章可略去）。摘要的编写应符合<b>GB6448</b><b>－86</b>的规定。</p><p>2.
+                    摘要的内容包括研究的目的、方法、结果和结论。一般应写成报道性文摘，也可以写成指示性或报道－指示性文摘。</p><p>3.
+                    摘要应具有<b>独立性和自含性</b>，应是一篇完整的短文。一般不分段，不用图表和非公知公认的符号或术语，不得引用图、表、公式和参考文献的序号。</p> 4.
+                    摘要的篇幅：<b>报道性</b>的以300字左右，<b>指示性</b>的以100字左右，报道一指示性的以200字左右为宜。</div>
+        </p>
+    </conbody>
+</concept>
